@@ -219,7 +219,7 @@ class GameWonView(arcade.View):
     def on_draw(self):
         self.clear()
         arcade.draw_texture_rect(self.background, arcade.LBWH(0, 0, WIDTH, HEIGHT))
-        arcade.draw_text("Congratulations!", x=WIDTH / 2, y=400, color=arcade.color.WHITE, font_size=54, anchor_x="center")
+        arcade.draw_text("Congratulations! You Survived!", x=WIDTH / 2, y=400, color=arcade.color.WHITE, font_size=54, anchor_x="center")
         arcade.draw_text("Play Again? (P)", x=WIDTH / 2, y=300, color=arcade.color.WHITE, font_size=24, anchor_x="center")
         arcade.draw_text("Main Menu (M)", x=WIDTH / 2, y=250, color=arcade.color.WHITE, font_size=24, anchor_x="center")
 
