@@ -4,7 +4,7 @@ I wanted to recreate a board game I like to play, but with a few modifications. 
 
 Right now the gameplay is most similar to PacMan. The player must collect keys while avoiding the aliens who will kill him. The player moves using the arrow keys on the keypad. Win when all keys are collected, lose when attacked by an alien.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.kaltura.com//p/1157612/embedPlaykitJs/uiconf_id/56813562?iframeembed=true&entry_id=1_r7jas6w8)
 
 # Development Environment
 
